@@ -1,8 +1,7 @@
 ---
+title: ISIS Experiment Controls
 layout: default
 ---
-
-# ISIS Experiment Controls
 
 ## Repo pages 
 
