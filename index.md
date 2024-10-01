@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# ISIS Experiment Controls
+
 ## Repo pages 
 
 [ibex_bluesky_core](https://isiscomputinggroup.github.io/ibex_bluesky_core/) ([repo](https://github.com/ISISComputingGroup/ibex_bluesky_core))
