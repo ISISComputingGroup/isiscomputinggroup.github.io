@@ -1,6 +1,6 @@
 # Welcome to the [ISIS Experiment Controls](https://github.com/ISISComputingGroup) Github page. 
 
-## Child pages 
+## Repo pages 
 
 [ibex_bluesky_core](https://isiscomputinggroup.github.io/ibex_bluesky_core/) ([repo](https://github.com/ISISComputingGroup/ibex_bluesky_core))
 
