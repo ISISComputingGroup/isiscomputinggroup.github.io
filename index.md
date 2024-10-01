@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome to the [ISIS Experiment Controls](https://github.com/ISISComputingGroup) Github page. 
-
 ## Repo pages 
 
 [ibex_bluesky_core](https://isiscomputinggroup.github.io/ibex_bluesky_core/) ([repo](https://github.com/ISISComputingGroup/ibex_bluesky_core))
@@ -21,3 +19,5 @@ layout: default
 ## Useful links
 
 [Projects](https://github.com/orgs/ISISComputingGroup/projects)
+
+[ISIS Experiment Controls Github](https://github.com/ISISComputingGroup)
