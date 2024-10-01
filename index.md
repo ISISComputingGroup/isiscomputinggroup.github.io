@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to the [ISIS Experiment Controls](https://github.com/ISISComputingGroup) Github page. 
 
 ## Repo pages 
