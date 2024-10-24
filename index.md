@@ -24,3 +24,5 @@ layout: default
 [Projects](https://github.com/orgs/ISISComputingGroup/projects)
 
 [ISIS Experiment Controls Github](https://github.com/ISISComputingGroup)
+
+[This page's repo](https://github.com/ISISComputingGroup/isiscomputinggroup.github.io)
