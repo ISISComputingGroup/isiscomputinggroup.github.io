@@ -9,6 +9,8 @@ layout: default
 
 [WebDashboard](https://isiscomputinggroup.github.io/WebDashboard/) ([repo](https://github.com/ISISComputingGroup/WebDashboard))
 
+[reusable-workflows](https://isiscomputinggroup.github.io/reusable-workflows/) ([repo](https://github.com/ISISComputingGroup/reusable-workflows))
+
 ## Wikis
 
 [Developer's manual](https://github.com/ISISComputingGroup/ibex_developers_manual/wiki)
