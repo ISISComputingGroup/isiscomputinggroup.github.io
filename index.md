@@ -7,7 +7,7 @@ layout: default
 
 [ibex_bluesky_core](https://isiscomputinggroup.github.io/ibex_bluesky_core/) ([repo](https://github.com/ISISComputingGroup/ibex_bluesky_core))
 
-[WebDashboard](https://isiscomputinggroup.github.io/WebDashboard/) ([repo](https://github.com/ISISComputingGroup/WebDashboard))
+[WebDashboard](https://isiscomputinggroup.github.io/WebDashboard/) ([repo](https://github.com/ISISComputingGroup/WebDashboard), [Wall Display](https://isiscomputinggroup.github.io/WebDashboard/wall))
 
 [reusable-workflows](https://isiscomputinggroup.github.io/reusable-workflows/) ([repo](https://github.com/ISISComputingGroup/reusable-workflows))
 
