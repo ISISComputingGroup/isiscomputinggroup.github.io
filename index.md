@@ -11,6 +11,8 @@ layout: default
 
 [reusable-workflows](https://isiscomputinggroup.github.io/reusable-workflows/) ([repo](https://github.com/ISISComputingGroup/reusable-workflows))
 
+[lewis documentation](https://isiscomputinggroup.github.io/lewis/) ([repo](https://github.com/ISISComputingGroup/lewis))
+
 ## Wikis
 
 [Developer's manual](https://github.com/ISISComputingGroup/ibex_developers_manual/wiki)
