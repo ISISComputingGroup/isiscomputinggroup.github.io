@@ -13,6 +13,8 @@ layout: default
 
 [lewis documentation](https://isiscomputinggroup.github.io/lewis/) ([repo](https://github.com/ISISComputingGroup/lewis))
 
+[genie_python documentation](https://isiscomputinggroup.github.io/genie/genie_python) ([repo](https://github.com/ISISComputingGroup/genie))
+
 ## Wikis
 
 [Developer's manual](https://github.com/ISISComputingGroup/ibex_developers_manual/wiki)
