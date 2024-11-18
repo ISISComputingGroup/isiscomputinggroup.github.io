@@ -13,7 +13,7 @@ layout: default
 
 [lewis documentation](https://isiscomputinggroup.github.io/lewis/) ([repo](https://github.com/ISISComputingGroup/lewis))
 
-[genie_python documentation](https://isiscomputinggroup.github.io/genie/genie_python) ([repo](https://github.com/ISISComputingGroup/genie))
+[genie_python documentation](https://isiscomputinggroup.github.io/genie/genie_python) ([repo](https://github.com/ISISComputingGroup/genie), [mirror on shadow](https://shadow.nd.rl.ac.uk/genie_python/sphinx/genie_python.html))
 
 ## Wikis
 
