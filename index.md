@@ -30,3 +30,9 @@ layout: default
 [ISIS Experiment Controls Github](https://github.com/ISISComputingGroup)
 
 [This page's repo](https://github.com/ISISComputingGroup/isiscomputinggroup.github.io)
+
+### Shadow links
+
+[Ibex User Manual](http://shadow.nd.rl.ac.uk/ibex_user_manual/Home)
+
+[Genie Python Commands](http://shadow.nd.rl.ac.uk/genie_python/sphinx/genie_python.html)
