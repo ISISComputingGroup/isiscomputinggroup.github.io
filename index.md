@@ -17,7 +17,7 @@ layout: default
 
 ## Wikis
 
-[Developer's manual](https://github.com/ISISComputingGroup/ibex_developers_manual/wiki)
+[Developer's manual](https://isiscomputinggroup.github.io/ibex_developers_manual/)
 
 [User manual](https://github.com/ISISComputingGroup/ibex_user_manual/wiki)
 
