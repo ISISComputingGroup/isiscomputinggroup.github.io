@@ -13,7 +13,7 @@ layout: default
 
 [Developer's manual](https://isiscomputinggroup.github.io/ibex_developers_manual/) ([repo](https://github.com/ISISComputingGroup/ibex_developers_manual), [mirror on shadow](https://shadow.nd.rl.ac.uk/ibex_developers_manual))
 
-[User manual](https://github.com/ISISComputingGroup/ibex_user_manual/wiki) ([mirror on shadow](http://shadow.nd.rl.ac.uk/ibex_user_manual/Home))
+[User manual](https://isiscomputinggroup.github.io/ibex_user_manual/) ([mirror on shadow](http://shadow.nd.rl.ac.uk/ibex_user_manual))
 
 [Top level manual](https://github.com/ISISComputingGroup/IBEX/wiki) ([mirror on shadow](http://shadow.nd.rl.ac.uk/ibex/Home))
 
