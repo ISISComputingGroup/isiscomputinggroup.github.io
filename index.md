@@ -15,7 +15,7 @@ layout: default
 
 [User manual](https://isiscomputinggroup.github.io/ibex_user_manual/) ([mirror on shadow](http://shadow.nd.rl.ac.uk/ibex_user_manual))
 
-[Top level manual](https://github.com/ISISComputingGroup/IBEX/wiki) ([mirror on shadow](http://shadow.nd.rl.ac.uk/ibex/Home))
+[Top level manual](https://github.com/ISISComputingGroup/IBEX/wiki) ([mirror on shadow](https://shadow.nd.rl.ac.uk/ibex_project/Home))
 
 [genie_python documentation](https://isiscomputinggroup.github.io/genie/genie_python) ([repo](https://github.com/ISISComputingGroup/genie), [mirror on shadow](https://shadow.nd.rl.ac.uk/genie_python/sphinx/genie_python.html))
 
